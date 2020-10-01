@@ -28,7 +28,40 @@
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
+<<<<<<< HEAD
               "client_id": "595686795614-5sqhtuqnrhikeft1i3fu8d13ldcgd3af.apps.googleusercontent.com",
+=======
+              "client_id": "145174140838-7jqnp7cue6kg36f04c7kam6v79ah3ta3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145174140838:android:4ff8b9bb46183307a7a167",
+        "android_client_info": {
+          "package_name": "<mySchool>.esgarden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145174140838-7jqnp7cue6kg36f04c7kam6v79ah3ta3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkpF680Cdf4Q0gYCnmmRTAcZ6APiDphXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145174140838-7jqnp7cue6kg36f04c7kam6v79ah3ta3.apps.googleusercontent.com",
+>>>>>>> acb1aead43d41699e43640a61d6dc057fb3de4a2
               "client_type": 3
             }
           ]

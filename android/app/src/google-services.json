@@ -39,7 +39,11 @@
       "client_info": {
         "mobilesdk_app_id": "1:145174140838:android:4ff8b9bb46183307a7a167",
         "android_client_info": {
+<<<<<<< HEAD
           "package_name": "lapurisima.esgarden"
+=======
+          "package_name": "<mySchool>.esgarden"
+>>>>>>> acb1aead43d41699e43640a61d6dc057fb3de4a2
         }
       },
       "oauth_client": [
