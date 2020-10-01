@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="out2">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/build/firebase_storage/intermediates/merged_java_res/debug/out.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/firebase_auth/intermediates/merged_java_res/debug/out.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

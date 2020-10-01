@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="res4">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/build/image_picker/intermediates/library_java_res/debug/res.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/flutter_plugin_android_lifecycle/intermediates/library_java_res/debug/res.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

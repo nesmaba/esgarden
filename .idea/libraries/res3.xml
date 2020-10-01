@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="res3">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/build/firebase_core/intermediates/library_java_res/debug/res.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/url_launcher_web/intermediates/library_java_res/debug/res.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="out3">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/build/google_sign_in/intermediates/merged_java_res/debug/out.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/firebase_core/intermediates/merged_java_res/debug/out.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
